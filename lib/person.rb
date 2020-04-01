@@ -16,5 +16,4 @@ class Person
     @job = job
   end
   
-  
 end
